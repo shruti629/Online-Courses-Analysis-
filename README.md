@@ -15,6 +15,13 @@ This project provides  Power BI analysis of **online recorded lectures** collect
 
 ---
 
+## 📎 Power BI Report (Online View)
+
+📍 **Live Dashboard**: https://app.powerbi.com/groups/me/reports/13f7de6c-0f2e-4812-b8f2-691ad6679a8a/2800895507be12724465?bookmarkGuid=68c09f57-9714-44c6-a71c-8f7dbee39947&bookmarkUsage=1&ctid=a57f7d92-038e-4d4c-8265-7cd2beb33b34&portalSessionId=11ba7a25-4d31-4c2b-9ebc-cabc21f95113&fromEntryPoint=export
+
+
+---
+
 ## 📈 Key Insights Visualized in Power BI
 
 ### 1. 📚 **Course Types Distribution by Category**
