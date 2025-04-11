@@ -1,18 +1,15 @@
-# Online-Courses-Analysis-
-Online Course Analysis using Power BI
-
-# 📊 Power BI Dashboard: EdTech Online Courses Analysis (Recorded Lectures)
+# 📊 Power BI Dashboard: EdTech Online Courses Analysis 
 
 ## 🧠 Overview
 
-This project provides a detailed Power BI analysis of **online recorded lectures** collected from various EdTech platforms. You are a **Data Analyst** working with an **EdTech startup** aiming to expand its recorded lecture offerings. The goal is to uncover **valuable insights** to inform strategic decisions regarding course development, instructor partnerships, language accessibility, and content duration.
+This project provides  Power BI analysis of **online recorded lectures** collected from various EdTech platforms.  The goal is to uncover **valuable insights** to inform strategic decisions regarding course development, instructor partnerships, language accessibility, and content duration.
 
 ---
 
 ## 📂 Dataset
 
 - **Source**: Kaggle  
-- **Dataset Link**: [Online Courses Dataset - Kaggle](https://www.kaggle.com/datasets/your-dataset-link-here) *(Replace with actual URL)*  
+- **Dataset Link**: https://www.kaggle.com/datasets/khaledatef1/online-courses  
 - **Format**: CSV  
 - **Contents**: Course category, sub-category, views, ratings, instructors, skills, language, duration, subtitles, etc.
 
@@ -93,23 +90,9 @@ This dashboard enables the EdTech startup to:
 
 ---
 
-## 🔗 Dataset Credit
-
-Dataset credit goes to the original uploader on Kaggle. Please refer to the Kaggle page for licensing details and attribution.
-
----
-
 ## 🙌 Contributing
 
 Contributions are welcome. Feel free to fork the repo, improve insights, or enhance visuals!
-
----
-
-## 📬 Contact
-
-For questions or suggestions:  
-**Email**: yourname@example.com  
-**LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourname)
 
 ---
 
